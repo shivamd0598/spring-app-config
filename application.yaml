@@ -10,6 +10,3 @@ okta:
   oauth2:
     issuer: https://dev-45999960.okta.com/oauth2/default
     audience: api://default
-    client-id: 0oa6z5o4y716F95oC5d7
-    client-secret: tEzckF7BL3s0mlRrYDgiZCB8cYJ1PTHDORGa2pXO
-    scopes: openid, profile, email, offline_access      
